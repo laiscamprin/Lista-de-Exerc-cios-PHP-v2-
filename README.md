@@ -1,2 +1,2 @@
 # Lista_exercícios_php
-apara ver as modificações nos arquivos, acessar as modificações via laiscamprin-patchlistaexercicios
+apara ver as modificações nos arquivos, acessar as modificações via laiscamprin-patch-listaexercicios
